@@ -4,4 +4,4 @@ This is the website so far. Check out [Steven's real website](www.stevengonder.c
 
 ![myimage](DS1.jpg)
 
-[About me](about)
+[About me](about.md)
